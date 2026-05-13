@@ -1,11 +1,10 @@
 # IDGEN
 Lightweight dual-language (RU/EN) CLI identity generator for database seeding, QA testing, and cryptographic research. Powered by Faker.
-░░██╗░░██╗░░██╗██████╗░░█████╗░██╗░░██╗░██████╗██╗███╗░░░███╗██╗░░██╗░░██╗░░
-░██╔╝░██╔╝░██╔╝██╔══██╗██╔══██╗╚██╗██╔╝██╔════╝██║████╗░████║╚██╗░╚██╗░╚██╗░
-██╔╝░██╔╝░██╔╝░██║░░██║██║░░██║░╚███╔╝░╚█████╗░██║██╔████╔██║░╚██╗░╚██╗░╚██╗
-╚██╗░╚██╗░╚██╗░██║░░██║██║░░██║░██╔██╗░░╚═══██╗██║██║╚██╔╝██║░██╔╝░██╔╝░██╔╝
-░╚██╗░╚██╗░╚██╗██████╔╝╚█████╔╝██╔╝╚██╗██████╔╝██║██║░╚═╝░██║██╔╝░██╔╝░██╔╝░
-░░╚═╝░░╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝░░╚═╝░░
+ ++++++++++++++++++++
+▀█▀ █▀▄ ▄▀▀ █▀▀ █▄░█
+░█░ █░█ █░█ █▀▀ █▀██
+▀▀▀ ▀▀░ ░▀▀ ▀▀▀ ▀░░▀ 
+++++++++++++++++++++
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
