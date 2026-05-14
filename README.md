@@ -30,12 +30,12 @@ Python | Linux Debian | Open-Source Security Tools
  
 Клонируй репозиторий:
 ```bash
-git clone github.com
+git clone https://github.com/k1rpit/IDGEN.git
 ```
 
 Перейди в папку проекта:
 ```bash
-cd Identity-Generator
+cd IDGEN
 ```
 
 Установи необходимую библиотеку:
@@ -45,7 +45,7 @@ pip install faker --break-system-packages
 
 Запусти инструмент:
 ```bash
-python3 x.py
+python3 dox.py
 ```
 
 ## 🎯 Демонстрация работы / Demo Screen
