@@ -8,7 +8,7 @@ Lightweight dual-language (RU/EN) CLI identity generator for database seeding, Q
 # IDGEN (Identity Generator) v1.0 🚀
 
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
-https://web.telegram.org/k/#@geiporno718s | Developed by k1rpit
+t.me/k1rpit718s| Developed by k1rpit
 
 ---
 Python | Linux Debian | Open-Source Security Tools
